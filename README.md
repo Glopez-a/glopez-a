@@ -5,7 +5,7 @@
 -  2021 Goals: Learn a little more 
 <br />
 ### Connect with me:
-[<img align="left" alt="Glopez-a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="glopez-a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -20,7 +20,7 @@
 ![](https://komarev.com/ghpvc/?username=glopez-a)
 <br />
 ---
-[![Gonzalo's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
+[![Gonzalo's 42 stats](https://badge42.herokuapp.com/api/stats/glopez-a)](https://github.com/JaeSeoKim/badge42)
 <br/>
 [![Gonzalo's github stats](https://github-readme-stats.glopez-a.vercel.app/api?username=glopez-a&count_private=true)](https://github.com/glopez-a)[![Top Langs](https://github-readme-stats.glopez-a.vercel.app/api/top-langs?username=glopez-a&layout=compact)](https://github.com/glopez-a)
 [github]: https://github.com/glopez-a?tab=repositories

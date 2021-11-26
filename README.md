@@ -1,4 +1,4 @@
-### Hello World!, I'm Javier - aka [javrodri] 👋
+### Hello World!, I'm Javier - aka [glopez-a] 👋
 
 ## I am a developer. What do I develop? Stuff.....
 
@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="javrodri42.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
-[<img align="left" alt="javrodri42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="javrodri42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="javrodri42 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="glopez-a.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="glopez-a | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="glopez-a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="glopez-a | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,16 +36,16 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=javrodri42)
+![](https://komarev.com/ghpvc/?username=glopez-a)
 
 <br />
 
 ---
-[![javrodri's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
+[![glopez-a's 42 stats](https://badge42.herokuapp.com/api/stats/glopez-a)](https://github.com/JaeSeoKim/badge42)
 <br/>
-[![Javier's github stats](https://github-readme-stats.javrodri42.vercel.app/api?username=javrodri42&count_private=true)](https://github.com/javrodri42)[![Top Langs](https://github-readme-stats.javrodri42.vercel.app/api/top-langs?username=javrodri42&layout=compact)](https://github.com/javrodri42)
+[![Javier's github stats](https://github-readme-stats.glopez-a.vercel.app/api?username=glopez-a&count_private=true)](https://github.com/glopez-a)[![Top Langs](https://github-readme-stats.glopez-a.vercel.app/api/top-langs?username=glopez-a&layout=compact)](https://github.com/glopez-a)
 
-[github]: https://github.com/javrodri42?tab=repositories
+[github]: https://github.com/glopez-a?tab=repositories
 [42website]: https://42madrid.com/
 [twitter]: https://twitter.com/JaviNoPants
 [instagram]: https://instagram.com/shooting_for_nothing/

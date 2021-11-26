@@ -43,7 +43,7 @@
 ---
 [![glopez-a's 42 stats](https://badge42.herokuapp.com/api/stats/glopez-a)](https://github.com/JaeSeoKim/badge42)
 <br/>
-[![Gonzalo's github stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glopez-a)](https://github.com/glopez-a/github-readme-stats)
+![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=glopez-a&count_private=true)
 
 [github]: https://github.com/Glopez-a?tab=repositories
 [42website]: https://42madrid.com/

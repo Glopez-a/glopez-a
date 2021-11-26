@@ -38,4 +38,4 @@
 ​
 [github]: https://github.com/glopez-a?tab=repositories
 [42website]: https://42madrid.com/
-[linkedin]: https://www.linkedin.com/in/gonzalo-l%C3%B3pez-andr%C3%A9s/
+[linkedin]: www.linkedin.com/in/gonzalo-lopez-andres/

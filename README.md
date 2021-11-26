@@ -43,10 +43,8 @@
 ---
 [![javrodri's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
 <br/>
-[![Javier's github stats](https://github-readme-stats.javrodri42.vercel.app/api?username=javrodri42&count_private=true)](https://github.com/javrodri42)[![Top Langs](https://github-readme-stats.javrodri42.vercel.app/api/top-langs?username=javrodri42&layout=compact)](https://github.com/javrodri42)
+[![Javier's github stats](https://github-readme-stats.glopez-a.vercel.app/api?username=glopez-a&count_private=true)](https://github.com/glopez-a)[![Top Langs](https://github-readme-stats.glopez-a.vercel.app/api/top-langs?username=glopez-a&layout=compact)](https://github.com/glopez-a)
 ​
-[github]: https://github.com/javrodri42?tab=repositories
+[github]: https://github.com/glopez-a?tab=repositories
 [42website]: https://42madrid.com/
-[twitter]: https://twitter.com/JaviNoPants
-[instagram]: https://instagram.com/shooting_for_nothing/
-[linkedin]: https://linkedin.com/in/javier-rodriguezg/
+[linkedin]: https://www.linkedin.com/in/gonzalo-l%C3%B3pez-andr%C3%A9s/

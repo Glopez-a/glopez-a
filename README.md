@@ -43,7 +43,7 @@
 ---
 [![glopez-a's 42 stats](https://badge42.herokuapp.com/api/stats/glopez-a)](https://github.com/JaeSeoKim/badge42)
 <br/>
-[![Gonzalo's github stats](https://github-readme-stats.Glopez-a.vercel.app/api?username=Glopez-a&count_private=true)](https://github.com/Glopez-a)[![Top Langs](https://github-readme-stats.Glopez-a.vercel.app/api/top-langs?username=Glopez-a&layout=compact)](https://github.com/Glopez-a)
+[![Gonzalo's github stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glopez-a)](https://github.com/glopez-a/github-readme-stats)
 
 [github]: https://github.com/Glopez-a?tab=repositories
 [42website]: https://42madrid.com/

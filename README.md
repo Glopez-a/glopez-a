@@ -1,4 +1,4 @@
-### Hello World!, I'm Gonzalo - aka [glopez-a] 
+### Hello World!, I'm Gonzalo - aka [glopez-a]
 ## I am a developer. What do I develop? Stuff.....
 -  Now i´m studying at [#42Madrid][42website]!
 -  I’m currently learning everything that i can
@@ -20,9 +20,9 @@
 ![](https://komarev.com/ghpvc/?username=glopez-a)
 <br />
 ---
-[![javrodri's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
+[![Gonzalo's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
 <br/>
-[![Javier's github stats](https://github-readme-stats.glopez-a.vercel.app/api?username=glopez-a&count_private=true)](https://github.com/glopez-a)[![Top Langs](https://github-readme-stats.glopez-a.vercel.app/api/top-langs?username=glopez-a&layout=compact)](https://github.com/glopez-a)
+[![Gonzalo's github stats](https://github-readme-stats.glopez-a.vercel.app/api?username=glopez-a&count_private=true)](https://github.com/glopez-a)[![Top Langs](https://github-readme-stats.glopez-a.vercel.app/api/top-langs?username=glopez-a&layout=compact)](https://github.com/glopez-a)
 [github]: https://github.com/glopez-a?tab=repositories
 [42website]: https://42madrid.com/
 [linkedin]: www.linkedin.com/in/gonzalo-lopez-andres/
